@@ -1,2 +1,1 @@
-# hello-bmc
-first reposatry
+repostary web tech lab
